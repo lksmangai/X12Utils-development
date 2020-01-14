@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\EDIUtilsWeb.csproj": {}
+  },
+  "projects": {
+    "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\EDIUtilsWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\EDIUtilsWeb.csproj",
+        "projectName": "EDIUtilsWeb",
+        "projectPath": "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\EDIUtilsWeb.csproj",
+        "packagesPath": "C:\\Users\\yogesh.khaire\\.nuget\\packages\\",
+        "outputPath": "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yogesh.khaire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "ediFabric.Templates.Hipaa": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "ediFabric.framework": {
+              "target": "Package",
+              "version": "[9.8.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

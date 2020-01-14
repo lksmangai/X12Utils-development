@@ -1,0 +1,200 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "EdiFabric.Core/9.8.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/EdiFabric.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/EdiFabric.Core.dll": {}
+        }
+      },
+      "EdiFabric.Framework/9.8.6.1": {
+        "type": "package",
+        "dependencies": {
+          "EdiFabric.Core": "9.8.6.1"
+        },
+        "compile": {
+          "lib/netcoreapp2.0/EdiFabric.Framework.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/EdiFabric.Framework.dll": {}
+        }
+      },
+      "EdiFabric.Templates.Hipaa/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "EdiFabric.Core": "9.8.0"
+        },
+        "compile": {
+          "lib/netcoreapp2.0/EdiFabric.Templates.Hipaa.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/EdiFabric.Templates.Hipaa.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EdiFabric.Core/9.8.6.1": {
+      "sha512": "D08uT5wTc9jiA3+Fq1gS0fgvbNUzf4PB3K07KUTwFgVTk8J/U9I1VTHe6OtMPo52qeOjxHSuRgW+epUU4gBkig==",
+      "type": "package",
+      "path": "edifabric.core/9.8.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "edifabric.core.9.8.6.1.nupkg.sha512",
+        "edifabric.core.nuspec",
+        "lib/net45/EdiFabric.Core.dll",
+        "lib/netcoreapp2.0/EdiFabric.Core.dll"
+      ]
+    },
+    "EdiFabric.Framework/9.8.6.1": {
+      "sha512": "zeCyHCLg+HnoNXYMP0WLyq2ks5wKVkQSmBLNhQnSeTlKcJb60WDT7561B+tLTx4+Py61pdD6pViJnhYRYO8bnQ==",
+      "type": "package",
+      "path": "edifabric.framework/9.8.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "edifabric.framework.9.8.6.1.nupkg.sha512",
+        "edifabric.framework.nuspec",
+        "lib/net45/EdiFabric.Framework.dll",
+        "lib/netcoreapp2.0/EdiFabric.Framework.dll"
+      ]
+    },
+    "EdiFabric.Templates.Hipaa/1.1.0": {
+      "sha512": "cZDm6PEd3/CZ/LoZQky57NFAZdxXi0tmZoUv8lOCAgwLQyJTa8VvroWZGV67uLjKzAy+gOOjqN/tEZBxf2+jOw==",
+      "type": "package",
+      "path": "edifabric.templates.hipaa/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "edifabric.templates.hipaa.1.1.0.nupkg.sha512",
+        "edifabric.templates.hipaa.nuspec",
+        "lib/net45/EdiFabric.Templates.Hipaa.dll",
+        "lib/netcoreapp2.0/EdiFabric.Templates.Hipaa.dll"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Newtonsoft.Json >= 12.0.3",
+      "ediFabric.Templates.Hipaa >= 1.1.0",
+      "ediFabric.framework >= 9.8.6.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yogesh.khaire\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\EDIUtilsWeb.csproj",
+      "projectName": "EDIUtilsWeb",
+      "projectPath": "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\EDIUtilsWeb.csproj",
+      "packagesPath": "C:\\Users\\yogesh.khaire\\.nuget\\packages\\",
+      "outputPath": "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\yogesh.khaire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          },
+          "ediFabric.Templates.Hipaa": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          },
+          "ediFabric.framework": {
+            "target": "Package",
+            "version": "[9.8.6.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

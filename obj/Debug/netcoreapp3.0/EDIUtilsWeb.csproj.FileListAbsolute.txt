@@ -1,0 +1,92 @@
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\appsettings.json
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\EDIUtilsWeb.exe
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\EDIUtilsWeb.deps.json
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\EDIUtilsWeb.runtimeconfig.json
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\EDIUtilsWeb.runtimeconfig.dev.json
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\EDIUtilsWeb.dll
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\EDIUtilsWeb.pdb
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\obj\Debug\netcoreapp3.0\EDIUtilsWeb.csprojAssemblyReference.cache
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\obj\Debug\netcoreapp3.0\staticwebassets\EDIUtilsWeb.StaticWebAssets.Manifest.cache
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\obj\Debug\netcoreapp3.0\staticwebassets\EDIUtilsWeb.StaticWebAssets.xml
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\obj\Debug\netcoreapp3.0\EDIUtilsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\obj\Debug\netcoreapp3.0\EDIUtilsWeb.AssemblyInfoInputs.cache
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\obj\Debug\netcoreapp3.0\EDIUtilsWeb.AssemblyInfo.cs
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\obj\Debug\netcoreapp3.0\EDIUtilsWeb.RazorTargetAssemblyInfo.cache
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\obj\Debug\netcoreapp3.0\EDIUtilsWeb.dll
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\obj\Debug\netcoreapp3.0\EDIUtilsWeb.pdb
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\EdiFabric.Core.dll
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\EdiFabric.Framework.dll
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\EdiFabric.Templates.Hipaa.dll
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\VS2010\EDIUtilsWeb\EDIUtilsWeb\obj\Debug\netcoreapp3.0\EDIUtilsWeb.csproj.CopyComplete
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\appsettings.json
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.exe
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.deps.json
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.runtimeconfig.json
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.runtimeconfig.dev.json
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.dll
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.pdb
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\EdiFabric.Core.dll
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\EdiFabric.Framework.dll
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\EdiFabric.Templates.Hipaa.dll
+C:\VS2010\EDIWebUtils\X12Utils\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\VS2010\EDIWebUtils\X12Utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.csprojAssemblyReference.cache
+C:\VS2010\EDIWebUtils\X12Utils\obj\Debug\netcoreapp3.0\staticwebassets\EDIUtilsWeb.StaticWebAssets.Manifest.cache
+C:\VS2010\EDIWebUtils\X12Utils\obj\Debug\netcoreapp3.0\staticwebassets\EDIUtilsWeb.StaticWebAssets.xml
+C:\VS2010\EDIWebUtils\X12Utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\VS2010\EDIWebUtils\X12Utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.AssemblyInfoInputs.cache
+C:\VS2010\EDIWebUtils\X12Utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.AssemblyInfo.cs
+C:\VS2010\EDIWebUtils\X12Utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.RazorTargetAssemblyInfo.cache
+C:\VS2010\EDIWebUtils\X12Utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.csproj.CopyComplete
+C:\VS2010\EDIWebUtils\X12Utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.dll
+C:\VS2010\EDIWebUtils\X12Utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.pdb
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\appsettings.Development.json
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\appsettings.json
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.exe
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.deps.json
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.runtimeconfig.json
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.runtimeconfig.dev.json
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.dll
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.pdb
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\EdiFabric.Core.dll
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\EdiFabric.Framework.dll
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\EdiFabric.Templates.Hipaa.dll
+e:\Working Folder\GitHub\x12utils\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+e:\Working Folder\GitHub\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.csprojAssemblyReference.cache
+e:\Working Folder\GitHub\x12utils\obj\Debug\netcoreapp3.0\staticwebassets\EDIUtilsWeb.StaticWebAssets.Manifest.cache
+e:\Working Folder\GitHub\x12utils\obj\Debug\netcoreapp3.0\staticwebassets\EDIUtilsWeb.StaticWebAssets.xml
+e:\Working Folder\GitHub\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.MvcApplicationPartsAssemblyInfo.cache
+e:\Working Folder\GitHub\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.AssemblyInfoInputs.cache
+e:\Working Folder\GitHub\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.AssemblyInfo.cs
+e:\Working Folder\GitHub\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.RazorTargetAssemblyInfo.cache
+e:\Working Folder\GitHub\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.csproj.CopyComplete
+e:\Working Folder\GitHub\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.dll
+e:\Working Folder\GitHub\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.pdb
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\appsettings.json
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.exe
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.deps.json
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.runtimeconfig.json
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.runtimeconfig.dev.json
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.dll
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\EDIUtilsWeb.pdb
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\EdiFabric.Core.dll
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\EdiFabric.Framework.dll
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\EdiFabric.Templates.Hipaa.dll
+E:\Working Folder\GitHub\x12EDI\x12utils\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Working Folder\GitHub\x12EDI\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.csprojAssemblyReference.cache
+E:\Working Folder\GitHub\x12EDI\x12utils\obj\Debug\netcoreapp3.0\staticwebassets\EDIUtilsWeb.StaticWebAssets.Manifest.cache
+E:\Working Folder\GitHub\x12EDI\x12utils\obj\Debug\netcoreapp3.0\staticwebassets\EDIUtilsWeb.StaticWebAssets.xml
+E:\Working Folder\GitHub\x12EDI\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\Working Folder\GitHub\x12EDI\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.AssemblyInfoInputs.cache
+E:\Working Folder\GitHub\x12EDI\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.AssemblyInfo.cs
+E:\Working Folder\GitHub\x12EDI\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.RazorTargetAssemblyInfo.cache
+E:\Working Folder\GitHub\x12EDI\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.csproj.CopyComplete
+E:\Working Folder\GitHub\x12EDI\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.dll
+E:\Working Folder\GitHub\x12EDI\x12utils\obj\Debug\netcoreapp3.0\EDIUtilsWeb.pdb
