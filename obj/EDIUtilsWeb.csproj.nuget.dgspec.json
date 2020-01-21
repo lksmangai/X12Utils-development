@@ -10,11 +10,11 @@
         "projectUniqueName": "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\EDIUtilsWeb.csproj",
         "projectName": "EDIUtilsWeb",
         "projectPath": "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\EDIUtilsWeb.csproj",
-        "packagesPath": "C:\\Users\\yogesh.khaire\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\lakshmana\\.nuget\\packages\\",
         "outputPath": "E:\\Working Folder\\GitHub\\x12EDI\\x12utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yogesh.khaire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lakshmana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
