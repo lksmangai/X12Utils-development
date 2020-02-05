@@ -53,4 +53,4 @@ FROM microsoft/dotnet:2.2-sdk
 WORKDIR /app
 EXPOSE 80
 COPY ./Publish/. ./
-ENTRYPOINT ["dotnet", "BanqEDIService.dll"]
+ENTRYPOINT ["dotnet", "EDIUtilsWeb.dll"]
